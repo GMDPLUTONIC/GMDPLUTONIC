@@ -1,7 +1,1 @@
-#include <iostream>
-
-int main() {
-    std::cout << "im a new gd mod dev ;)" << std::endl;
-    std::cout << "I make some useful tools that will be available on https://www.geode-sdk.org" << std::endl;
-    return 0;
-}
+I'm A Retarded Web Dev. I Code In HTML, CSS, JS, Svelte, C++, Python, And JSON.
